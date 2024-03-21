@@ -1,0 +1,7 @@
+# Source: https://github.com/waymo-research/waymax/blob/cc5d1afd74e4a6bcae9d7cc3cc33b76d3d8e3340/setup.py#L36
+numpy>=1.20
+jax>=0.4.6
+chex>=0.1.6
+matplotlib>=3.7.1
+immutabledict>=2.2.3
+Pillow>=9.4.0
